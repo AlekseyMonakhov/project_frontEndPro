@@ -1,0 +1,30 @@
+{
+  "name": "project_frontendpro",
+  "version": "1.0.0",
+  "description": "my project work on frontEndPro course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlekseyMonakhov/project_frontEndPro.git"
+  },
+  "keywords": [
+    "IAMB",
+    "project",
+    "work"
+  ],
+  "author": "Aleksey Monakhov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlekseyMonakhov/project_frontEndPro/issues"
+  },
+  "homepage": "https://github.com/AlekseyMonakhov/project_frontEndPro#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.51.0"
+  }
+}
